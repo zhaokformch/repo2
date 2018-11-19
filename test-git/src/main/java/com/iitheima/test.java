@@ -5,4 +5,8 @@ public class test {
         System.out.println("666");
     }
 
+    public void write1() {
+        System.out.println("777");
+    }
+
 }
